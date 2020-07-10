@@ -10,6 +10,6 @@ Gosto de novos desafios, propondo soluções para os problemas expostos, atravé
 ---
 
 - :computer: Techs: javaScript, java, srping, sql react, css, bootstrap, materialize, css.
--  :books: Bacharel em ciência da computação (centro universitário de joão pessoa - unipê)  e pós graduando em full stack web developer (uniesp centro universitário).
+-  :books: Graduação: Bacharel em ciência da computação (centro universitário de joão pessoa - unipê)  e pós graduando em full stack web developer (uniesp centro universitário).
 
 ---
