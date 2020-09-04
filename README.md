@@ -3,11 +3,10 @@
 
 
 ## Olá! 👋
-
 Meu nome é Vinícius Alexandre. Sou uma pessoa apaixonada pela tecnologia.Gosto de novos desafios, propondo soluções para os problemas expostos, através do desenvolvimento de software e tecnologias.
-
----
-
+<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/13973423/vin%c3%adcius-alexandre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://medium.com/@viniciusdevti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="maykbrito" height="20" width="20" /></a>
 
 
 - :computer: Techs: 
@@ -28,4 +27,4 @@ Meu nome é Vinícius Alexandre. Sou uma pessoa apaixonada pela tecnologia.Gosto
 
 -  :books: Formação: Bacharel em ciência da computação (centro universitário de joão pessoa - unipê)  e pós graduando em full stack web developer (uniesp centro universitário).
 
----
+
