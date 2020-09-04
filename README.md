@@ -1,12 +1,12 @@
-:man_technologist: Vinicius Alexandre.
+:man_technologist: Vinícius Alexandre.
 
 
 
 ## Olá! 👋
 Meu nome é Vinícius Alexandre. Sou uma pessoa apaixonada pela tecnologia.Gosto de novos desafios, propondo soluções para os problemas expostos, através do desenvolvimento de software e tecnologias.
-<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/13973423/vin%c3%adcius-alexandre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://medium.com/@viniciusdevti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-alexandre-6b809b17b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinicius" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/13973423/vin%c3%adcius-alexandre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="vinicius" height="20" width="20" /></a>
+<a href="https://medium.com/@viniciusdevti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="vinicius" height="20" width="20" /></a>
 
 
 - :computer: Techs: 
