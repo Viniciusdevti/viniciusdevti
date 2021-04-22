@@ -8,7 +8,7 @@ Meu nome é Vinícius Alexandre. Sou uma pessoa apaixonada pela tecnologia.Gosto
 <a href="https://stackoverflow.com/users/13973423/vin%c3%adcius-alexandre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="vinicius" height="20" width="20" /></a>
 <a href="https://medium.com/@viniciusdevti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="vinicius" height="20" width="20" /></a>
 
-<a href="https://www.youtube.com/channel/UCJUUAoc8lTCD3io1TfkW53g/videos" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UCJUUAoc8lTCD3io1TfkW53g?style=social" alt="vinicius" height="20" 
+<a href="https://www.youtube.com/channel/UCJUUAoc8lTCD3io1TfkW53g/videos" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UCJUUAoc8lTCD3io1TfkW53g?style=social" alt="vinicius" height="20" </a>
 - :computer: Techs: 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
