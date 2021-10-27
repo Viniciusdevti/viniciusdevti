@@ -10,7 +10,7 @@ Meu nome é Vinícius Alexandre. Sou uma pessoa apaixonada pela tecnologia.Gosto
 
 - :computer: Techs: 
 ![C#](https://img.shields.io/badge/-C%20sharp-007396?style=flat-square&logo=csharp)
-![C#](https://img.shields.io/badge/.NET-007396?style=flat-square&logo=.net)
+![C#](https://img.shields.io/badge/.NET-007396?style=flat-square&logo=.net core)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
