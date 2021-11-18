@@ -28,6 +28,8 @@ Meu nome é Vinícius Alexandre. Sou uma pessoa apaixonada pela tecnologia.Gosto
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
--  :books: Formação: Bacharel em ciência da computação (centro universitário de joão pessoa - unipê)  e pós graduando em full stack web developer (uniesp centro universitário).
+-  :books: Formação: 
+*  Bacharel em ciência da computação (centro universitário de joão pessoa - unipê) 
+*  Mba em full stack web developer (uniesp centro universitário).
 
 
